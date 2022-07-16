@@ -10,3 +10,4 @@
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I Enjoy Learning New Things:).
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adeebahmed333&theme=highcontrast)
